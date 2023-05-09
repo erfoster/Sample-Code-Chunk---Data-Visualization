@@ -3,10 +3,10 @@
 ## Assignment: Display a self-contained chunk of code that highlights a specific skill in R. 
 
 ### What the code does: 
-The code demonstrates data visualization skills in R for creating tables and graphs.  
+The code demonstrates data visualization skills in R for creating tables and graphs. It specifically uses the packages `kableExtra`, `ggplot2`, `tidyverse`, `dplyr`, `formattable`, and `patchwork`. 
 
 ### Data:
-Data comes from the [2023 World Happiness Project report](https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf).
+Data comes from the `datasets` package in R; this code chunk uses the iris dataset.
 
 ### Code:
 ```{r, WARNING = FALSE, ECHO = FALSE}
