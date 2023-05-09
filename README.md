@@ -100,7 +100,9 @@ plot_annotation(title = bquote(~bold("Comparing Iris Types: Sepal Width and Leng
 
 ### Output: 
 ```{r, WARNING = FALSE, ECHO = FALSE, INCLUDE = TRUE}
- output: rmarkdown::github_document 
+
+output: rmarkdown::github_document 
+render()
 ## setup 
     # loading packages 
 library(kableExtra)
