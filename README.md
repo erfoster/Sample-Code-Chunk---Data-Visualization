@@ -9,7 +9,7 @@ The code demonstrates data visualization skills in R for creating tables and gra
 Data comes from the `datasets` package in R; this code chunk uses the iris dataset.
 
 ### Code:
-```{r, WARNING = FALSE, ECHO = FALSE, ouput = TRUE}
+```{r, WARNING = FALSE}
 ## setup 
     # loading packages 
 library(kableExtra)
