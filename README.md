@@ -101,7 +101,7 @@ plot_annotation(title = bquote(~bold("Comparing Iris Types: Sepal Width and Leng
 ### Output: 
 You can view the table [here](https://erfoster.github.io/Sample-Code-Chunk---Data-Visualization/). 
 
-You can view the graphs [here](x). 
+You can view the graphs [here](https://github.com/erfoster/Sample-Code-Chunk---Data-Visualization/blob/main/Iris%20Sepal%20Plot.png). 
 
 
 
